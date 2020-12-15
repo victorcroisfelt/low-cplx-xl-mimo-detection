@@ -2,8 +2,7 @@
 
 This is a research-oriented code package that is primarily intended to allow readers to replicate the results of the article mentioned below and also encourage and accelerate further research on this topic:
 
-Victor Croisfelt Rodrigues, Abolfazl Amiri, Taufik Abrão, Elisabeth de Carvalho, and Petar Popovski, "Low-Complexity Distributed XL-MIMO
-for Multiuser Detection". Preprint availble on: https://arxiv.org/abs/2001.11879.
+V. C. Rodrigues, A. Amiri, T. Abrão, E. de Carvalho and P. Popovski, "Low-Complexity Distributed XL-MIMO for Multiuser Detection," 2020 IEEE International Conference on Communications Workshops (ICC Workshops), Dublin, Ireland, 2020, pp. 1-6, doi: 10.1109/ICCWorkshops49005.2020.9145378. Available on: https://ieeexplore.ieee.org/abstract/document/9145378.
 
 The package is based on the Matlab language and can, in fact, reproduce all the numerical results and figures discussed in the article. To contextualize, in the sequel, we present the abstract of the article and other important information.
 
