@@ -47,8 +47,16 @@ noiseVariancedBmRange = -50;
 updateSchedule = ["power","uniform","aa"];
 
 %Define performance bounds
-%bounds = [.90,.99];
-bounds = .9;
+bounds = [.90,.99];
+%bounds = .9;
+
+% IMPORTANT
+% Feel free to try different inputs for bounds and updateSchedule (considering "power","uniform","aa"). 
+% However, the plot code in the end of this file is expecting the use of: 
+%     bounds = [.90,.99];
+%     updateSchedule = ["power","uniform","aa"];
+%
+% If you use any other input, you will need to correct the code accordingly.
 
 %% Simulation parameters
 
