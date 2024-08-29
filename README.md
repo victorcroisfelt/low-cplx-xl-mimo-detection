@@ -16,8 +16,22 @@ In this paper, the zero-forcing and regularized zero-forcing schemes operating i
 ## Content
 The codes provided herein can be used to simulate Figs. 2a, 2b, and 3. This is done by running the scripts that have "simulation" in their names, while those with "function" in their names are called by the main scripts. Further details about each file can be found inside them.
 
-## Citing this Repository and License
-This code is subject to the MIT license. If you use any part of this repository for research, please consider to cite our aforementioned work.
-
 ## Acknowledgments
 This research was supported in part by the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) under grant 88887.461434/2019-00.
+
+## Citing this Repository and License
+This code is subject to the MIT license. If you use any part of this repository for research, please consider citing our aforementioned work.
+
+```bibtex
+@INPROCEEDINGS{9145378,
+  author={Rodrigues, Victor Croisfelt and Amiri, Abolfazl, and Abrão, Taufik and de Carvalho, Elisabeth and Popovski, Petar},
+  booktitle={2020 IEEE International Conference on Communications Workshops (ICC Workshops)}, 
+  title={Low-Complexity Distributed XL-MIMO for Multiuser Detection}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Antenna arrays;MIMO communication;Computational complexity;Signal to noise ratio;Optimization;Convergence},
+  doi={10.1109/ICCWorkshops49005.2020.9145378}
+}
+
